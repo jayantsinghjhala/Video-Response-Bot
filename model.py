@@ -160,7 +160,6 @@ def download_video(result):
 # # print(ai_ans)
 # text_to_speech(ai_ans)
 
-# api_key_gooey = "sk-RvNIE4Q1dR2z72ASbYPCK1cAoWwzNk0VorptZyt0lUoIISKV"
 
 # video_path="video/moving_3gp_144_use.mp4"
 # audio_path="audio/output.mp3"
