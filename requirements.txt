@@ -1,0 +1,7 @@
+python-dotenv
+psutil
+hugchat
+requests
+python-telegram-bot
+urllib3
+
