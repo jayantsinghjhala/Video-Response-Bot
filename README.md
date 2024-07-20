@@ -13,7 +13,7 @@ This repository contains the necessary files to set up and run a Telegram bot us
 
 1. **Install the required packages**:
     ```bash
-    pip install psutil python-dotenv hugchat requests urllib3 python-telegram-bot
+    pip install psutil python-dotenv hugchat requests urllib3 python-telegram-bot nest_asyncio
     ```
 2. Ask the Owner for .env configurations:
 
